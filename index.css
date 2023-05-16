@@ -1,0 +1,83 @@
+body {
+	font-family: Arial, sans-serif;
+	background: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-delicious-pizza-background-material-image_126059.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+	margin: 0;
+}
+
+header {
+	background-color: red;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+h1 {
+	margin: 0;
+}
+p{
+    color: #008CBA;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #E6E6E6;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h2 {
+	color: lightgray;
+	margin-top: 40px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+a {
+	color: #008CBA;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
